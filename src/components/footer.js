@@ -19,6 +19,15 @@ const Footer = () => (
         by <Link to="/">Stackrole.com</Link>
       </p>
     </div>
+<script type="text/javascript">
+window.__ET = { "partnerId": "tamt0rypgtwguv6e"};
+var s = document.createElement('script');
+s.type = 'text/javascript';
+s.async = true;
+s.src = 'https://assets.eddytravels.com/widget.min.js';
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s, x);
+</script>
   </footer>
 )
 
